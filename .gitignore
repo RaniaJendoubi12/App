@@ -1,0 +1,11 @@
+ 
+*.pyc
+*.pyo
+*.egg-info/
+__pycache__/
+*.log
+*.sqlite3
+*.swp
+.DS_Store
+.idea/
+venv/
